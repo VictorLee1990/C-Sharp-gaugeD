@@ -1,0 +1,18 @@
+c:\users\vic.lee\documents\visual studio 2012\Projects\gaugeD\gaugeD\bin\Debug\gaugeD.exe.config
+c:\users\vic.lee\documents\visual studio 2012\Projects\gaugeD\gaugeD\bin\Debug\gaugeD.exe
+c:\users\vic.lee\documents\visual studio 2012\Projects\gaugeD\gaugeD\bin\Debug\gaugeD.pdb
+c:\users\vic.lee\documents\visual studio 2012\Projects\gaugeD\gaugeD\obj\Debug\gaugeD.csprojResolveAssemblyReference.cache
+c:\users\vic.lee\documents\visual studio 2012\Projects\gaugeD\gaugeD\obj\Debug\gaugeD.Form1.resources
+c:\users\vic.lee\documents\visual studio 2012\Projects\gaugeD\gaugeD\obj\Debug\gaugeD.Properties.Resources.resources
+c:\users\vic.lee\documents\visual studio 2012\Projects\gaugeD\gaugeD\obj\Debug\gaugeD.csproj.GenerateResource.Cache
+c:\users\vic.lee\documents\visual studio 2012\Projects\gaugeD\gaugeD\obj\Debug\gaugeD.exe
+c:\users\vic.lee\documents\visual studio 2012\Projects\gaugeD\gaugeD\obj\Debug\gaugeD.pdb
+C:\Users\vic.lee\Desktop\C# 練習\gaugeD\gaugeD\bin\Debug\gaugeD.exe.config
+C:\Users\vic.lee\Desktop\C# 練習\gaugeD\gaugeD\obj\Debug\gaugeD.exe
+C:\Users\vic.lee\Desktop\C# 練習\gaugeD\gaugeD\obj\Debug\gaugeD.pdb
+C:\Users\vic.lee\Desktop\C# 練習\gaugeD\gaugeD\bin\Debug\gaugeD.exe
+C:\Users\vic.lee\Desktop\C# 練習\gaugeD\gaugeD\bin\Debug\gaugeD.pdb
+C:\Users\vic.lee\Desktop\C# 練習\gaugeD\gaugeD\obj\Debug\gaugeD.csprojResolveAssemblyReference.cache
+C:\Users\vic.lee\Desktop\C# 練習\gaugeD\gaugeD\obj\Debug\gaugeD.Form1.resources
+C:\Users\vic.lee\Desktop\C# 練習\gaugeD\gaugeD\obj\Debug\gaugeD.Properties.Resources.resources
+C:\Users\vic.lee\Desktop\C# 練習\gaugeD\gaugeD\obj\Debug\gaugeD.csproj.GenerateResource.Cache
